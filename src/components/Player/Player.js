@@ -1,7 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserCheck } from '@fortawesome/free-solid-svg-icons'
-import './player.css'
 const Player = (props) => {
     const { image, name, salary, club } = props.player
     const handleAddPlayer = props.handleAddPlayer

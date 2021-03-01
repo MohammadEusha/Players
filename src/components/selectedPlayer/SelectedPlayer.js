@@ -1,6 +1,5 @@
 import React from 'react';
 import AddedPlayers from '../AddedPlayers/AddedPlayers';
-import Player from '../Player/Player';
 
 
 const SelectedPlayer = (props) => {

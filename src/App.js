@@ -20,7 +20,7 @@ function App() {
   return (
     <div>
       <div style={{textAlign: 'center'}}>
-        <h1>Players Selection Of Legendary Club For Next Season</h1>
+        <h1 style={{marginTop: '20px'}}>Players Selection Of Legendary Club For Next Season</h1>
         <h3><b> Available Players: </b>{players.length}</h3>
       </div>
       <div style={{display: 'flex', padding: '20px'}}>
