@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "name": "Neymar",
+    "club": "Paris Saint Germain",
+    "image": "https://i.insider.com/5fd38780e00bce00188bac03?width=600&format=jpeg&auto=webp",
+    "salary": 9984732
+  }, {
+    "id": 2,
+    "name": "Karim Benzema",
+    "club": "Real Madrid",
+    "image": "https://i.insider.com/5fd0f3e3240ebd00126bdeba?width=600&format=jpeg&auto=webp",
+    "salary": 3571942
+  }, {
+    "id": 3,
+    "name": "Thomas Muller",
+    "club": "Bayern Munich",
+    "image": "https://i.insider.com/5fc908c4037cbd0018613964?width=600&format=jpeg&auto=webp",
+    "salary": 4294239
+  }, {
+    "id": 4,
+    "name": "Sadio Mane",
+    "club": "Liverpool",
+    "image": "https://i.insider.com/5fd38d299cf1420018d2ec49?width=600&format=jpeg&auto=webp",
+    "salary": 8902149
+  }, {
+    "id": 5,
+    "name": "Kylian Mbappe",
+    "club": "Paris Saint Germain",
+    "image": "https://i.insider.com/5ed78406988ee36e6127b004?width=600&format=jpeg&auto=webp",
+    "salary": 7992225
+  }, {
+    "id": 6,
+    "name": " Mohamed Salah ",
+    "club": " Liverpool",
+    "image": "https://i.insider.com/5fd350fae00bce00188bab82?width=600&format=jpeg&auto=webp",
+    "salary": 8128393
+  }, {
+    "id": 7,
+    "name": "Virgil van Dijk",
+    "club": " Liverpool",
+    "image": "https://i.insider.com/5fc90943037cbd0018613967?width=600&format=jpeg&auto=webp",
+    "salary": 4850454
+  }, {
+    "id": 8,
+    "name": "Sergio Ramos ",
+    "club": "Real Madrid",
+    "image": "https://i.insider.com/5fd381339cf1420018d2ebe5?width=600&format=jpeg&auto=webp",
+    "salary": 2705348
+  }, {
+    "id": 9,
+    "name": "Joshua Kimmich",
+    "club": " Bayern Munich",
+    "image": "https://i.insider.com/5fd0e5bf240ebd00126bde4e?width=600&format=jpeg&auto=webp",
+    "salary": 1469296
+  }, {
+    "id": 10,
+    "name": "Jan Oblak",
+    "club": " Atletico Madrid",
+    "image": "https://i.insider.com/5fd0fb03240ebd00126bdee5?width=600&format=jpeg&auto=webp",
+    "salary": 3670200
+  }, {
+    "id": 11,
+    "name": "Thiago Silva",
+    "club": "Paris Saint Germain",
+    "image": "https://i.insider.com/5fc7a78950e71a00115585e2?width=600&format=jpeg&auto=webp",
+    "salary": 7413995
+  }, {
+    "id": 12,
+    "name": "Alphonso Davies",
+    "club": "Bayern Munich ",
+    "image": "https://i.insider.com/5fc7b85150e71a0011558664?width=600&format=jpeg&auto=webp",
+    "salary": 2794012
+  }, {
+    "id": 13,
+    "name": "Jadon Sancho ",
+    "club": "Borussia Dortmund",
+    "image": "https://i.insider.com/5fd0ef51cee0cf00114fa61c?width=600&format=jpeg&auto=webp",
+    "salary": 8206785
+  }, {
+    "id": 14,
+    "name": " Andy Robertson",
+    "club": "Liverpool",
+    "image": "https://i.insider.com/5fd37bb79cf1420018d2ebc8?width=600&format=jpeg&auto=webp",
+    "salary": 6815295
+  }, {
+    "id": 15,
+    "name": " Son Heung-min",
+    "club": "Tottenham Hotspur",
+    "image": "https://i.insider.com/5fcfaba0cee0cf00114fa218?width=600&format=jpeg&auto=webp",
+    "salary": 7323368
+  }, {
+    "id": 16,
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "image": "https://i.insider.com/5fe34ae6a644880018193181?width=600&format=jpeg&auto=webp",
+    "salary": 3128967
+  }, {
+    "id": 17,
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "image": "https://i.insider.com/5fc8fb8050e71a0011558a81?width=600&format=jpeg&auto=webp",
+    "salary": 5892611
+  }, {
+    "id": 18,
+    "name": "Romelu Lukaku",
+    "club": "Inter Milan",
+    "image": "https://i.insider.com/5fcfaae8240ebd00126bdad4?width=600&format=jpeg&auto=webp",
+    "salary": 2257288
+  }, {
+    "id": 19,
+    "name": "Serge Gnabry",
+    "club": "Bayern Munich",
+    "image": "https://i.insider.com/5fd0eea4cee0cf00114fa615?width=600&format=jpeg&auto=webp",
+    "salary": 3954656
+  }, {
+    "id": 20,
+    "name": "Georginio Wijnaldum",
+    "club": "Liverpool ",
+    "image": "https://i.insider.com/5fce56aceadd8400183df7b8?width=600&format=jpeg&auto=webp",
+    "salary": 5603565
+  }]
